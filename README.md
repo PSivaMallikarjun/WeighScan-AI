@@ -20,7 +20,8 @@ WeighScan AI is an intelligent, AI-driven web application that estimates the wei
 
 ## How It Works
 1. **Upload an Image/Video** or use the live scanning feature.
-2. **Select Material Type** (e.g., Steel, Paddy Bags) and enter its density & specific gravity.
+2. **Select Material Type** (e.g., Steel, Paddy Bags) and enter its density & specific gravity.![Screenshot 2025-04-09 232812](https://github.com/user-attachments/assets/e7e17c7c-e49f-4971-9d76-1f73e8ecc554)
+
 3. **Define Dimensions** (Length, Width, Height) of the material/container.
 4. **Tare Weight Adjustment**: Enter the weight of the container or vehicle.
 5. **Weight Calculation**: The app computes the estimated weight and displays the result.
@@ -50,3 +51,5 @@ This project is licensed under the Apache License 2.0.
 
 ![Screenshot 2025-04-09 221818](https://github.com/user-attachments/assets/fa3a1616-4905-479f-83c7-18f72cb3b502)
 ![Screenshot 2025-04-09 221827](https://github.com/user-attachments/assets/b98fd64e-ba8d-4606-ace0-8017c0d1a352)
+![Screenshot 2025-04-09 232812](https://github.com/user-attachments/assets/37906d83-451f-43b4-bf0a-4a0baa33be19)
+![Screenshot 2025-04-09 232822](https://github.com/user-attachments/assets/6fcc42e4-37b5-4475-a2a6-2f49b9d2b2f9)
